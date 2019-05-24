@@ -1,0 +1,4 @@
+db-sqlite3
+flask-jwt-extended
+requests
+gunicorn
